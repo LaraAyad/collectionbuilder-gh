@@ -1,2 +1,2 @@
-objectid,filename,youtubeid,title,format,description,creator,recipient,date,date-is-approximate?,item_information,subject,location,latitude,longitude,related_publication,publisher-digital,source,findingaid,original-identifier,identifier,rights,rightsstatement,type,language,relation
-Lion,https://lmu.box.com/shared/static/13fhv22jvxp6t8x792yu1z7272ya507z,,Lion,jpeg,Photograph of a lion,Author,,,,,,,,,,,,,,,,,,,
+objectid,filename,thumbnail,youtubeid,title,format,description,creator,recipient,date,date-is-approximate?,item_information,subject,location,latitude,longitude,related_publication,publisher-digital,source,findingaid,original-identifier,identifier,rights,rightsstatement,type,language,relation
+Lion,https://lmu.box.com/shared/static/13fhv22jvxp6t8x792yu1z7272ya507z,https://lmu.box.com/shared/static/13fhv22jvxp6t8x792yu1z7272ya507z,,Lion,jpeg,Photograph of a lion,Author,,,,,,,,,,,,,,,,,,,
